@@ -1,0 +1,4 @@
+/Users/administrateur/Desktop/downtownwechillin/downtownwechillin/bin/Debug/downtownwechillin.dll
+/Users/administrateur/Desktop/downtownwechillin/Components/xamandroidsupportv7appcompat-19.1.0/lib/android/Xamarin.Android.Support.v4.dll
+/Users/administrateur/Desktop/downtownwechillin/Components/xamandroidsupportv7appcompat-19.1.0/lib/android/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/administrateur/Desktop/downtownwechillin/Components/foldinglayout-1.0.0/lib/android/Cheesebaron.Folding.dll
